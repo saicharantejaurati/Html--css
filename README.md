@@ -11,6 +11,5 @@ Skills:
 
 Currently learning:
 - Responsive Web Design
-- JavaScript (soon)
 
 📫 Reach me: saicharantejaurati@gmail.com
